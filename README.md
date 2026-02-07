@@ -2,7 +2,7 @@
 
 A machine learning project that predicts California house prices using Random Forest Regression with an interactive Streamlit web application.
 
-![House Price Prediction App](screenshot.png)
+![House Price Prediction App](interface.png)
 
 ## 🎯 Project Overview
 
